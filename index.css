@@ -1,5 +1,5 @@
 .e{height:80%;position:fixed;bottom:0;right:0}
-#s{width:200%;height:200%;position:fixed;top:-50%;left:-50%;object-fit:cover}
+#s{position:fixed;top:0;left:0%;object-fit:cover}
 h1{font-size:3vw;width:100%;text-align:center}
 h2{font-size:1.5vw;width:100%;text-align:center}
 h3{font-size:1.2vw}
