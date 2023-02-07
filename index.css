@@ -1,6 +1,0 @@
-h1{font-size:3vw;width:100%;text-align:center}
-h2{font-size:1.5vw;width:100%;text-align:center}
-h3{font-size:1.2vw}
-h1,h2,h3{z-index:1000;color:#FFF;font-family:Fjalla One;text-shadow:#000 2px 2px;}
-*{margin:0}
-@keyframes f{from{background-color:#000}to{background-color:#0000}}
